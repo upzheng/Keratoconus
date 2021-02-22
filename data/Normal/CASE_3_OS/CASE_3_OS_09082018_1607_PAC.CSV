@@ -151,12 +151,12 @@ Matrixsize Y;141;
 Matrix-Res. X/Y;100;
 
 [PATIENT];;
-LastName;Li;
-FirstName;Shuxin;
+LastName;;
+FirstName;;
 Eye;OS;
-DateOfBirth;21-01-1998;
+DateOfBirth;;
 Sex;...;
-PatientID;11192192;
+PatientID;;
 
 [EXAMINATION];;
 Date;09-08-2018;

@@ -151,12 +151,12 @@ Matrixsize Y;141;
 Matrix-Res. X/Y;100;
 
 [PATIENT];;
-LastName;Lou;
-FirstName;Jiapan;
+LastName;;
+FirstName;;
 Eye;OS;
-DateOfBirth;23-06-1997;
+DateOfBirth;;
 Sex;...;
-PatientID;11459387;
+PatientID;;
 
 [EXAMINATION];;
 Date;24-12-2018;

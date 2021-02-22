@@ -293,12 +293,12 @@ Matrixsize Y;141;
 Matrix-Res. X/Y;100;
 
 [PATIENT];;
-LastName;Zhao;
-FirstName;Chunhua;
+LastName;;
+FirstName;;
 Eye;OS;
-DateOfBirth;04-02-1996;
+DateOfBirth;;
 Sex;...;
-PatientID;11460051;
+PatientID;;
 
 [EXAMINATION];;
 Date;19-02-2019;

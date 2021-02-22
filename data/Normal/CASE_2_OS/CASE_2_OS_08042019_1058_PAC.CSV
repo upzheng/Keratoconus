@@ -151,12 +151,12 @@ Matrixsize Y;141;
 Matrix-Res. X/Y;100;
 
 [PATIENT];;
-LastName;Jin;
-FirstName;Jianjing;
+LastName;;
+FirstName;;
 Eye;OS;
-DateOfBirth;03-09-1984;
+DateOfBirth;;
 Sex;...;
-PatientID;10791661;
+PatientID;;
 
 [EXAMINATION];;
 Date;08-04-2019;
